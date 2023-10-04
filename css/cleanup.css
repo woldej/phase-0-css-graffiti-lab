@@ -1,1 +1,32 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    z-index: 7;
+
+  }
+#wall .tag-2 {
+    z-index: 3;
+  }
+#wall .tag-3 {
+    background: local;
+    display: inline-flex;
+    z-index: 6;
+
+  }
+#wall .tag-4 {
+    display: flow-root;
+    z-index: 2;
+
+  }
+  #wall .tag-5{
+background: repeat; 
+z-index: 1;
+ }
+ #wall .tag-6 {
+    display: none;
+    z-index: 4  ;
+
+  }
+  #wall .tag-7{
+    display: none;
+    z-index: 5;
+  }
